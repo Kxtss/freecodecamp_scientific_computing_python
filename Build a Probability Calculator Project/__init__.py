@@ -1,0 +1,1 @@
+from probability_calculator import Hat, experiment
